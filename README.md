@@ -3,7 +3,7 @@
 
 A Power BI project to analyze hotel booking trends and cancellation patterns using real-world hotel booking data.
 
-## About the Project
+## Objective of the Project
 
 The objective of this project is to understand booking performance, identify cancellation patterns, and find areas where hotels can improve their booking management.
 
