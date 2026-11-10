@@ -56,5 +56,3 @@ The objective of this project is to understand booking performance, identify can
 
 ---
 
-**Project Type:** Data Analytics  
-**Tool:** Microsoft Power BI
