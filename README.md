@@ -10,7 +10,7 @@ The objective of this project is to understand booking performance, identify can
 ## Dataset
 
 - **Dataset:** Hotel Booking Demand
-- **Source:** [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+- **Source:** https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 - **Hotels:** City Hotel and Resort Hotel
 - **Records:** 119,204 after data cleaning
 
